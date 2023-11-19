@@ -11,7 +11,7 @@ Via repository https://peno64.github.io/repository.peno64/
 
 Addon is installed and can be found in Add-ons under section Program add-ons
 
-#Usage:
+# Usage:
 To use this addon, do the following:
 
 Prerequisite: IPTV Manager and IPTV Simple Client are installed. This will be the case if from IPTV Manager settings, IPTV Simple, Configure IPTV Simple automatically was run.
@@ -19,17 +19,17 @@ Prerequisite: IPTV Manager and IPTV Simple Client are installed. This will be th
 - Install this addon
 - Run it. The following will be shown:
 
-   . IPTV Manager Data Folder:
-   .   <path>/service.iptv.manager/
-   . IPTV Simple Client Manager Data Folder:
-   .   <path>/pvr.iptvsimple/
-   . IPTV Simple Client Manager Configuration Files:
-   D   <path>/pvr.iptvsimple/instance-settings-number.xml
-   .   <path>/pvr.iptvsimple/settings.xml
-   . settings.xml is generated from IPTV Manager.
-   . If also another xml configuration file exists, select it and press ENTER
-   . to copy settings.xml to the chosen configuration file.
-   . Afterwards, settings.xml will be deleted.
+   . IPTV Manager Data Folder:<br>
+   .   <path>/service.iptv.manager/<br>
+   . IPTV Simple Client Manager Data Folder:<br>
+   .   <path>/pvr.iptvsimple/<br>
+   . IPTV Simple Client Manager Configuration Files:<br>
+   D   <path>/pvr.iptvsimple/instance-settings-number.xml<br>
+   .   <path>/pvr.iptvsimple/settings.xml<br>
+   . settings.xml is generated from IPTV Manager.<br>
+   . If also another xml configuration file exists, select it and press ENTER<br>
+   . to copy settings.xml to the chosen configuration file.<br>
+   . Afterwards, settings.xml will be deleted.<br>
 
 - Now navigate to the line that has the folder icon (here shown as D) and press ENTER to copy settings.xml over this file.
 - A new menu with only Done will be shown.
@@ -37,14 +37,14 @@ Prerequisite: IPTV Manager and IPTV Simple Client are installed. This will be th
 
 - The following will be shown:
 
-   . IPTV Manager Data Folder:
-   .   <path>/service.iptv.manager/
-   . IPTV Simple Client Manager Data Folder:
-   .   <path>/pvr.iptvsimple/
-   . IPTV Simple Client Manager Configuration Files:
-   .   <path>/pvr.iptvsimple/instance-settings-number.xml
-   . settings.xml does not exist (anymore).
-   . Nothing to do.
+   . IPTV Manager Data Folder:<br>
+   .   <path>/service.iptv.manager/<br>
+   . IPTV Simple Client Manager Data Folder:<br>
+   .   <path>/pvr.iptvsimple/<br>
+   . IPTV Simple Client Manager Configuration Files:<br>
+   .   <path>/pvr.iptvsimple/instance-settings-number.xml<br>
+   . settings.xml does not exist (anymore).<br>
+   . Nothing to do.<br>
 
 - This means the addon worked as expected. Note also that there is no folder icon anymore so nothing can be chosen.
 - Exit the addon
