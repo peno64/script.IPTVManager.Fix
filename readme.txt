@@ -1,4 +1,3 @@
-# Fix IPTV Manager configuration
 Fix IPTV Manager configuration
 
 After configure IPTV Simple automatically in IPTV Manager settings, no TV channels are visible.
@@ -6,12 +5,10 @@ After configure IPTV Simple automatically in IPTV Manager settings, no TV channe
 This is because IPTV Manager generates a settings.xml configuration file for IPTV Simple Client but IPTV Simple Client uses another name for it and this name can vary.
 This addon will make it possible to choose the setting file from IPTV Simple Client and it will then copy settings.xml over that selected settings file and remove settings.xml
 
-# Installation in kodi:
-Via repository https://peno64.github.io/repository.peno64/
+Installation in kodi via repository https://peno64.github.io/repository.peno64/
 
 Addon is installed and can be found in Add-ons under section Program add-ons
 
-#Usage:
 To use this addon, do the following:
 
 Prerequisite: IPTV Manager and IPTV Simple Client are installed. This will be the case if from IPTV Manager settings, IPTV Simple, Configure IPTV Simple automatically was run.
