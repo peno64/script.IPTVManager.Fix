@@ -1,9 +1,7 @@
 import xbmcaddon
 import xbmcgui
 import xbmcplugin
-import re
 import sys
-#import pathlib
 import glob, os
 import urllib.parse
 from urllib.parse import parse_qsl
